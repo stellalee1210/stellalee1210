@@ -46,7 +46,3 @@
     <li><h4>[ 2024.11.01 ~ 11.03 ] IBM X ShiftKeyLabs watsonX Education Challenge Honorable Mentions </h4></li>
   </div>
 </div>
-
-<br><br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eda1210)](https://solved.ac/eda1210/)
-
