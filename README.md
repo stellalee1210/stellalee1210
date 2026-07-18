@@ -2,12 +2,7 @@
 
 <div style="text-align: left;"> 
   <br> <br> <br> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 선한 개발자가 되고자 노력하는 이여빈입니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-      <li> 프론트엔드 개발자를 희망하고 있습니다</li>
-      <li> 도전하는 것을 좋아합니다</li>
-      <li> 누군가를 가르치는 것을 잘합니다 
-    </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 좋아하는 게 산더미인 개발자 이여빈입니다 </h2>  
     <h2> 🧑‍💻 Contact me </h2>
     <div> 
       <a href="https://velog.io/@camellia/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@camellia/posts"> </a>
@@ -37,9 +32,7 @@
     </div>
   <h2>👩‍💻 활동 </h2>
   <div>
-   <li>[ 2025.06 ~ 2025.07 ] 네이버 부스트캠프 베이직 수료</li> 
-   <li>[ 2025.07 ~ 2025.08 ] 네이버 부스트캠프 챌린지 수료</li> 
-   <li>[ 2025.10 ~ 2025.11 ] 우아한테크코스 프리코스 수료</li>     
+   <li>[ 2026.05 ~ ] 카카오테크 부트캠프 풀스택 4기</li>   
   </div>
   <h2>🏅수상 경력</h2>
   <div>
